@@ -1,8 +1,7 @@
 # VPC-Creation-with-Terraform-GitHub-Actions-Automation-project-1
 
 ![image](https://github.com/user-attachments/assets/e4e60dd8-e6a2-494b-9f72-8d4daa31e54e) 
-
-Here’s a more engaging, industry-oriented rewrite:  
+  
 
 ---
 
